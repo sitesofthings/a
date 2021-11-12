@@ -1,8 +1,5 @@
 @media only screen and (max-width: 600px) {
-
-    .setup img {
-        width: 1px;
-        height: 200px;
-        
+    #w-500 {
+        width: 400px;
     }
 }
