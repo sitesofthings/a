@@ -10,6 +10,18 @@ body::-webkit-scrollbar {
     display: none;
 }
 
+
+
+img {
+    box-shadow: 0 0 11px rgb(56, 56, 56); 
+    -webkit-filter: drop-shadow(5px 5px 5px black);
+    filter: drop-shadow(5px 5px 5px black); 
+    opacity: 1;
+    
+}
+
+
+
 .container {
     float: inline-start;
     text-align: center;
