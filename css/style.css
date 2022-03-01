@@ -1,4 +1,17 @@
 body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.container {
+    text-align: center;
+    margin: 300px;
+}
+
+/*
+
+body {
     background-color: rgb(32, 0, 104, 70%);
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -67,3 +80,4 @@ h3 li ul {
     position: relative;
     margin-top: 15rem;
 }
+*/
