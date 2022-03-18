@@ -1,16 +1,4 @@
-@media only screen and (max-width: 700px) {
-    body {
-       text-align: center;
-    }
-    .container {
-        margin: 10px;
-    }
-
-    h3 {
-        margin: auto;
-    }
-}
-/*@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     #w-500 {
         width: 400px;
     }
@@ -19,4 +7,3 @@
         margin: auto;
     }
 }
-*/
